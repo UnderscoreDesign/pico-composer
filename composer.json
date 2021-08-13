@@ -31,5 +31,5 @@
         "picocms/pico-deprecated": "^3.0",
         "picocms/composer-installer": "^1.0"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
 }
