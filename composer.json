@@ -31,6 +31,12 @@
         "picocms/pico-deprecated": "^3.0",
         "picocms/composer-installer": "^1.0"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0",
+            "dev-pico-3.0": "3.0"
+        }
+    },
     "minimum-stability": "alpha",
     "prefer-stable": true
 }
