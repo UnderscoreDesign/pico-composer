@@ -25,6 +25,12 @@
         "issues": "https://github.com/picocms/Pico/issues",
         "source": "https://github.com/picocms/Pico"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/underscoredesign/pico-composer"
+        }
+    ],
     "require": {
         "underscoredesign/pico": "^3.0",
         "picocms/pico-theme": "^3.0",
